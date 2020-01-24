@@ -65,3 +65,5 @@ def runner
   end_game(hand)
 end
     
+
+#Creating a ga
